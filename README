@@ -1,0 +1,101 @@
+Overview
+Your job this week is to make a “complex number” class. Even if you don't, they're really not that “complex”.  They are simply numbers that contain a real and imaginary element, and are of the form
+x             +     yi
+(real)             (imaginary)
+
+
+
+
+
+
+Sample Algorithms follow:
+
+Addition:  
+(1 + 2i) + ( 4 + 5i)  = (5 + 7i)   Add real, and imaginary parts 
+
+Subtraction:    
+(1 + 2i) - ( 4 + 5i)  = (-3 - 3i)   Subtract real, and imaginary parts 
+
+Multiplication:
+(1 + 2i) * (4 + 5i)  = (-6 + 13i)
+
+real = (1 * 4) - (2i * 5i);
+imag = (1 * 5i) + (2i * 4);
+
+Division:
+(1 + 2i)  / (4 + 5i)  = ( 14 / 41 + 3 / 41i) = (0.341463414634146 + 0.0731707317073171i) 
+
+real = (1 * 4 + 2i* 5i) / (Math.Pow(4, 2) + Math.Pow(5i, 2))
+imag = (2i * 4 - 1* 5i) / (Math.Pow(4, 2) + Math.Pow(5i, 2));
+
+
+
+What should your class do?
+For this exercise, name your class “Complex”. Obviously, it needs to somehow store the imaginary number. Specifically, here are the member methods your class should have:  Note:  C# supports overloading operators.  To receive full credit in the assignment you must overload operators for the add/sub/mult/div/== operations.
+
+Complex(); //a default constructor, which sets the number to 0
+
+Complex(double real, double imag); //a constructor which sets it to a given value
+
+Complex add(Complex c); //adds the value of c to the existing complex number
+
+Complex subtract(Complex c); //subtracts the value of c from the existing complex no.
+
+Complex multiply(Complex c); //multiples the value of c with the existing complex no.
+
+Complex divide(Complex c); //divides the value of c into the existing complex number
+
+void print(); //prints the complex number- should print it in simplest terms...if here's no imaginary part, then it should not be printed (same for no real part). Otherwise, print it in the form:
+x + yi or x – yi (depending upon the value of y)
+
+Each of these functions should add the second number to the first, and also return the number.
+
+Sample Output
+All you need to do for your main program is provide some good sample output. In fact, that sample output will be the results of the following expressions:
+
+Problem 1:
+(1 + 2i) + ( 4 + 5i)  = (5 + 7i)   
+
+Problem 2    
+(1 + 2i) - ( 4 + 5i)  = (-3 - 3i)   
+
+Problem 3 
+(1 + 2i) * (4 + 5i)  = (-6 + 13i)
+
+Problem 4:
+(1 + 2i)  / (4 + 5i)  = (0.341463414634146 + 0.0731707317073171i) 
+
+Problem 5:
+((7 + 5i) +(0 + 3i) )  * (5 + 2i) =  (19 + 54i)
+
+Just print the number and the answer, but make sure your program is actually DOING these equations. Don't forget to make nice comments, too.
+
+
+Part 2.   Interactive input 
+
+Your program needs to print the sample equations first.  After this it needs to prompt the user for an equation and solve the problem interactively.    So the program should take the following format:
+
+Enter Command :   help
+
+Valid commands for this program
+ help – prints this help
+ add -  Adds two complex numbers
+ sub -  Subtracts two complex numbers
+ div -  Subtracts two complex numbers
+ mult -  Subtracts two complex numbers 
+ quit  - Exit program  
+
+Sample run:
+
+Enter Command:  add 
+Enter real term:   1 
+Enter imaginary term: 2 
+Enter real term: 4
+Enter imaginary term: 5 
+
+Result:  
+(1 + 2i) + ( 4 + 5i)  = (5 + 7i)   
+
+Enter Command:  quit
+
+Goodbye!!!

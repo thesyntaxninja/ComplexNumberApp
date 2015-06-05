@@ -1,0 +1,6 @@
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Release\ComplexNumberApp.exe.config
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Release\ComplexNumberApp.exe
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Release\ComplexNumberApp.pdb
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Release\ComplexNumberApp.csprojResolveAssemblyReference.cache
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Release\ComplexNumberApp.exe
+D:\Documents\School\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Release\ComplexNumberApp.pdb

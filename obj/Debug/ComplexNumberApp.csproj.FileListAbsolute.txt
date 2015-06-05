@@ -1,0 +1,12 @@
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.exe.config
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.exe
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.pdb
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.exe
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.pdb
+D:\Documents\Projects\C# Projects\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.csprojResolveAssemblyReference.cache
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.exe.config
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.exe
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.pdb
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.exe
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\bin\Debug\ComplexNumberApp.pdb
+C:\Users\Parker\Dropbox\Brandeis\C#\Assignments\ComplexNumberApp\ComplexNumberApp\obj\Debug\ComplexNumberApp.csprojResolveAssemblyReference.cache
